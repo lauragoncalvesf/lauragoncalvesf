@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CB58BB&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB58BB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laura+Gonçalves;+Information+Technology+student+at+Ufersa!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB58BB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Vitória;+Information+Technology+student+at+Ufersa!;Back-End+Developer!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lauragoncalvezf&theme=catppuccin_mocha&mode=weekly" />
-<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragoncalvesf&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lauragoncalvesf&theme=catppuccin_mocha&mode=weekly" />
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragoncalves&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
  </div>
  
  &nbsp;
@@ -29,8 +29,6 @@
 
 
 
-
-
 &nbsp;
 &nbsp;
 
@@ -44,5 +42,6 @@
 
 ## About me
 - 👩‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CB58BB&section=footer"/>
